@@ -1,8 +1,8 @@
 ### Hi there, I'm Song!👋
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "[https://scholar.google.fr/citations?user=your_id](https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de)"
+
+[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=internet-explorer&logoColor=white)](https://songchen.science/)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de)
+[![](https://img.shields.io/github/stars/yaoyao-liu?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)]()
 
 
 <!--
