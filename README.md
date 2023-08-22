@@ -1,5 +1,5 @@
 ### Hi there, I'm Song!👋
-[Google Scholar](https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de)
+[https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de]
 
 <!--
 **Song-Chen16/Song-Chen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
