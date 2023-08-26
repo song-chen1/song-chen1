@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Homepage-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://song-chen.github.io/)
 [![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Song-Chen16)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Song-Chen1)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/song-chen-3449b9278/)
 [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Song-Chen-60)
 
