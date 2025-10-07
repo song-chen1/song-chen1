@@ -7,8 +7,12 @@
 [![](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Song-Chen-60)
 
 
-I am currently a Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/). I have started my Ph.D. work involved in the Innovative Training Networks (ITN) Doctoral Networks - [BEMAGIC](https://bemagic-etn.eu/) which is funded from the European Union’s Horizon 2020 research and innovation programme under the [Marie Sklodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks). My resaerch lies at using heterostructured multiferroic materials, electric surface charging and magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation. If you have any questions on my projects, please feel free to [send me an email](mailto:kammichan90@gmail.com?subject=[GitHub]).
 
+I recently completed my Ph.D. at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/).. My doctoral work was part of the Innovative Training Networks (ITN) Doctoral Networks - [BEMAGIC](https://bemagic-etn.eu/), funded by the European Union’s Horizon 2020 research and innovation programme under the [Marie Sklodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks).
+
+My research focused on heterostructured multiferroic materials, electric surface charging, and magneto-ionics to develop new concepts for magnetic data storage, spintronic devices, and magnonics. A key emphasis was on improving energy efficiency compared to current technologies, with special attention to boosting the magneto-ionic effect through ion irradiation and ion implantation.
+
+If you have any questions about my projects, please feel free to [send me an email](mailto:kammichan90@gmail.com?subject=[GitHub]).
 
 
 ---
