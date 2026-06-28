@@ -10,7 +10,7 @@
 
 I recently completed my Ph.D. at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/).. My doctoral work was part of the Innovative Training Networks (ITN) Doctoral Networks - [BEMAGIC](https://bemagic-etn.eu/), funded by the European Union’s Horizon 2020 research and innovation programme under the [Marie Sklodowska-Curie grant](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks).
 
-My research focused on heterostructured multiferroic materials, electric surface charging, and magneto-ionics to develop new concepts for magnetic data storage, spintronic devices, and magnonics. A key emphasis was on improving energy efficiency compared to current technologies, with special attention to boosting the magneto-ionic effect through ion irradiation and ion implantation.
+My research focused on Probabilistic computing.
 
 If you have any questions about my projects, please feel free to [send me an email](mailto:kammichan90@gmail.com?subject=[GitHub]).
 
