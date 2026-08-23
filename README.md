@@ -15,14 +15,6 @@ My research focused on Probabilistic computing.
 If you have any questions about my projects, please feel free to [send me an email](mailto:kammichan90@gmail.com?subject=[GitHub]).
 
 
----
-
-<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=song-chen1&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-Chen1&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
 <!--
 **Song-Chen16/Song-Chen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
